@@ -1,9 +1,9 @@
-import Acceil from "../../components/Acceuil";
+import Form from "../../components/pageConnexion/Connexion";
 
 function Admin() {
   return (
     <div className="App">
-      <Acceil />
+      <Form />
     </div>
   );
 }
