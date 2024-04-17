@@ -1,10 +1,9 @@
-import logo from "./logo.svg";
-import "./App.css";
+import Admin from "./pages/Admin/AcceiulAdmin";
 
 function App() {
   return (
     <div className="App">
-      <h1>Admin Mbaye N'diaye</h1>
+      <Admin />
     </div>
   );
 }
