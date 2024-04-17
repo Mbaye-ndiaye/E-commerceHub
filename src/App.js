@@ -1,10 +1,10 @@
-import logo from './logo.svg';
-import './App.css';
+import logo from "./logo.svg";
+import "./App.css";
 
 function App() {
   return (
     <div className="App">
-      <h1>Admin</h1>
+      <h1>Admin Mbaye N'diaye</h1>
     </div>
   );
 }
